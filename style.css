@@ -1,0 +1,33 @@
+body{
+    background-color: #87AB08;
+}
+
+img{
+    height: 200px;
+    width: 200px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 40px;
+}
+h1{
+    text-align: center;
+    font-size: 69px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    font-style:oblique ;
+}
+section{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #7E984A;
+    border: 20px dotted  red;
+}
+a{
+    width: 10%;
+}
